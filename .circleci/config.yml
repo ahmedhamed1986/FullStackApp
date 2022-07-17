@@ -41,10 +41,10 @@ jobs:
           name: API Build
           command: |
             npm run api:build
-      - run:
-          name: Frontend Test
-          command: |
-            npm run frontend:test
+      # - run:
+      #     name: Frontend Test
+      #     command: |
+      #       npm run frontend:test
       - run:
           name: Backend Test
           command: |
