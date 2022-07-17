@@ -1,0 +1,9 @@
+# Frontend Dependencies
+Those are the main dependencies that were used in frontend part:
+
+1. angular
+2. jasmine
+3. karma
+4. ts-node
+5. Typescript
+6. tslint
