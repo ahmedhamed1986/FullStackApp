@@ -10,7 +10,5 @@
 
 5. I fixed all the errors that appears during the cd process.
 
-The badge: [![CircleCI]
-(https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/ahmedhamed1986)
 
 ### I have added screenshots for the circleCI 
